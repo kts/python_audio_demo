@@ -1,0 +1,11 @@
+Some simple examples of 
+audio spectral analysis.
+
+See the notes at:
+http://kenschutte.com/python-audio-demo
+
+Can just run to see some figures:
+
+$ python spectrogram.py sa1-fblv0.wav
+
+$ python audio_demo.py
